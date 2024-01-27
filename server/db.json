@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "roadster",
+        "picture": "https://www.cnet.com/a/img/resize/59aff026a606fa767082eb01bc8af2f2ad99484c/hub/2018/02/08/3dcc95d9-a305-407d-9a7a-5aa80802cf45/screen-shot-2018-02-08-at-12-07-40-pm-1-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "votes": 0
+    },
+    {
+        "id": 2,
+        "name": "modelS",
+        "picture": "https://hips.hearstapps.com/hmg-prod/images/2023-tesla-model-s-exterior-654d3a5e814cc.png?crop=0.548xw:0.642xh;0.223xw,0.180xh&resize=768:*",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "name": "modelX",
+        "picture": "https://hips.hearstapps.com/hmg-prod/images/2020-tesla-model-x-107-656e381e755b3.jpg?crop=0.662xw:0.540xh;0.167xw,0.264xh&resize=980:*",
+        "votes": 0
+    },
+    {
+        "id": 4,
+        "name": "model3",
+        "picture": "https://blog.vipautoaccessories.com/wp-content/uploads/2020/10/hero-1.jpg",
+        "votes": 0
+    },
+    {
+        "id": 5,
+        "name": "modelY",
+        "picture": "https://media.wired.com/photos/5c8b302f33cb7721bef322f1/master/pass/teslay.jpg",
+        "votes": 0
+    }
+]
